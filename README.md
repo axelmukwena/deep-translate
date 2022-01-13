@@ -51,9 +51,6 @@
       # Mac OS
       $ pip3 install -r requirements.txt
       
-      $ python -m spacy download en_core_web_trf
-      # https://spacy.io/models/en
-      
       # Windows
       $ python3 -m pip install -r requirements.txt
     
